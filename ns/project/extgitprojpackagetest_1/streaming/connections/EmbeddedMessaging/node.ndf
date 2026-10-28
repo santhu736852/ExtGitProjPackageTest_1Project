@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="node_type">connectorAccount</value>
+  <value name="node_subtype">streamingAccount</value>
+  <value name="node_nsName">project.extgitprojpackagetest_1.streaming.connections:EmbeddedMessaging</value>
+  <value name="node_pkg">ExtGitProjPackageTest_1Project</value>
+  <value name="is_public">false</value>
+  <value name="assetId">ExtGitProjPackageTest_1Project.project.extgitprojpackagetest_1.streaming.connections:EmbeddedMessaging</value>
+  <value name="connectionName">EmbeddedMessaging</value>
+  <value name="description">This is the default embedded messaging account</value>
+  <value name="providerURI">nhp://stage00-dev6222501-um-0.int-dev6222501.svc.cluster.local:9000/</value>
+  <value name="clientId">EM1579d36df34e4ce0bb691062e8972c74</value>
+  <value name="securityProtocol"></value>
+  <value name="keystoreAlias"></value>
+  <value name="keystoreKeyAlias"></value>
+  <value name="truststoreAlias"></value>
+  <value name="additionalProperties"></value>
+  <record name="node_hints" javaclass="com.wm.util.Values">
+    <value name="createdBy">Santhosh.K8@ibm.com</value>
+    <value name="modifiedBy">Santhosh.K8@ibm.com</value>
+    <value name="createdDate">2026-10-28T14:57:29.657090147Z</value>
+    <value name="lastModifiedDate">2026-10-28T14:57:29.657090147Z</value>
+  </record>
+</Values>
